@@ -1,3 +1,3 @@
-mymain branch is modified too
+mymain branch is modified too_ (1)
 diff
 branch1, add some changes indicator_2
