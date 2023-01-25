@@ -1,3 +1,6 @@
 my real feature is this one (1)
 diff
 branch1, add some changes indicator_2
+squash1
+squash2
+squash3
